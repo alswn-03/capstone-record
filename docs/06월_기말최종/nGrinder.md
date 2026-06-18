@@ -40,7 +40,7 @@ cf)
 
 nGrinder는 Controller와 Agent 로 구성
 
-<img src="./image/nGrinderSystemArchitecture.png">
+<img src="../../image/nGrinderSystemArchitecture.png">
 
 아아 그 Agent 가 사용자로서 요청을 보내는 거 같음
 
